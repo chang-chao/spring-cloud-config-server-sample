@@ -1,3 +1,3 @@
 ```
-curl -d "path=app1" http://localhost:8888/monitor
+curl -d "path=gateway" http://localhost:8888/monitor
 ```
