@@ -1,3 +1,7 @@
 spring:
   application:
     name: configserver
+  profiles:
+    include: git
+foo.bar: this is foo.bar value in bootstrap.yml
+    
